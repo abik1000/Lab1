@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfunctions.a 
+/usr/bin/ranlib libfunctions.a

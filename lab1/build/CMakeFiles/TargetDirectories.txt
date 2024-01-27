@@ -1,0 +1,4 @@
+/home/akuma/lab/lab1/test 1/build/CMakeFiles/functions.dir
+/home/akuma/lab/lab1/test 1/build/CMakeFiles/main.dir
+/home/akuma/lab/lab1/test 1/build/CMakeFiles/edit_cache.dir
+/home/akuma/lab/lab1/test 1/build/CMakeFiles/rebuild_cache.dir

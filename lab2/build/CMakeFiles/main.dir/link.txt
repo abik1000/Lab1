@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall CMakeFiles/main.dir/source/main.cpp.o CMakeFiles/main.dir/source/weather_dialog.cpp.o CMakeFiles/main.dir/source/weather_forecast_vector.cpp.o CMakeFiles/main.dir/source/weather_forecast.cpp.o -o main 
